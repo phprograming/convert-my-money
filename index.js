@@ -29,7 +29,7 @@ app.get('/cotacao', (req, res) => {
   }
 });
 
-app.listen(3000, err => {
+app.listen(5000, err => {
   if (err) {
     console.log('Não está online');
   } else {
