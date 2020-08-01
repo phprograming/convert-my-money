@@ -1,7 +1,7 @@
 # ConvertMyMoney - Fullstack Master :rocket:
 [![HitCount](https://hits.dwyl.com/phprograming/palpite-box.svg)](https://hits.dwyl.com/phprograming/palpite-box)
 
-Este projeto foi construído durante a primeira semana no curso Fullstack Master da [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.phprograming.vercel.app/.
+Este projeto foi construído durante a primeira semana no curso Fullstack Master da [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: [ConvertMyMoney](https://convertmymoney-virid.vercel.app/).
 
 ### Pré-requisitos:
 
